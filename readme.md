@@ -1,6 +1,5 @@
 ## Ulee
----
-|名称|变量|备注|
+|Js|Variable|Remark|
 |:---:|:---:|:---:|
 |aliyun_sign.js|ALI_TOKEN||
 |GlaDOS.js|airportCookie||
